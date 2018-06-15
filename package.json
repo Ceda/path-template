@@ -12,9 +12,6 @@
   "scripts": {
     "test": "node test/runner.js"
   },
-  "engines": {
-    "node": "~0.6.6"
-  },
   "dependencies": {},
   "devDependencies": {
     "mini-unit": "*"
